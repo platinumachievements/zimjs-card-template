@@ -1,0 +1,20 @@
+{
+  "games": [
+    {
+      "gameTitle": "Game One",
+      "trophyName": "First Challenge",
+      "username": "playerOne",
+      "rarity": "rare",
+      "date": "2022-01-15",
+      "imageUrl": "./images/game1.png"
+    },
+    {
+      "gameTitle": "Game Two",
+      "trophyName": "Second Challenge",
+      "username": "playerTwo",
+      "rarity": "Common",
+      "date": "2023-10-15",
+      "imageUrl": "./images/game2.png"
+    }
+  ]
+}
